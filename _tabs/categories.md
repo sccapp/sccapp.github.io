@@ -32,7 +32,7 @@ reflects the priorities and values of their church community.
 
 With the help of church members, we identified four health topics: 
 
->Physical Activity, Nutrition, Stress and Mental Health, and Healthy Relationships. 
+**Physical Activity, Nutrition, Stress and Mental Health, and Healthy Relationships.** 
 
 We learned from church members that it is important that the application: 
 
