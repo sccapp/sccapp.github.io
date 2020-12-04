@@ -10,13 +10,14 @@ order: 2
 # MIT License
 ---
 
-**## App Links**
+## **App Links**
 
 
-**## How to report bugs**
+## **How to report bugs**
 
 
-**## Questions, Concerns, Comments?**
+## **Questions, Concerns, Comments?**
+
 If you have any questions or concerns about the project, please contact the Principal Investigator: Timothy Bickmore at 617-373-5477
 
 {% comment %}
