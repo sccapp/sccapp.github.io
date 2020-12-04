@@ -51,7 +51,7 @@ jobs:
           bundle config path ${{ env.GEMS_PATH }}
           bundle install --jobs 4 --retry 3
 
-      - name: Build Site--trace
+      - name: Build Site--incremental
         env:
           JEKYLL_ENV: production
         run: |
