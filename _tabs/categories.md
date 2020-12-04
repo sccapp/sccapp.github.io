@@ -9,7 +9,15 @@ order: 1
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
-I am testing to see if I can just add text. 
+## Summary of the Work in Year 1 
+
+##### Members from the two churches have participated in:
+> ##### **9** different types of sessions to design the app.
+> ##### **40** total focus groups and interviews.
+
+> ##### For a total of **62** hours on the project so far.
+
+##### *Thank you so much for all your hard work this past year, and for sharing your experiences and insights with us!* 
 
 
 {% assign HEAD_PREFIX = "h_" %}
