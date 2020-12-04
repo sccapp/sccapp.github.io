@@ -4,68 +4,96 @@ on:
     branches:
       - master
     paths-ignore:
-      - .gitignore
-      - README.md
-      - LICENSE
+      - '.gitignore'
+      - 'README.md'
+      - 'LICENSE'
 
 jobs:
-  continuous-delivery:
-
+  build-n-test:
     runs-on: ubuntu-latest
 
-    env:
-      GEMS_PATH: ~/vendor/bundle
-
     steps:
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6.x'
+
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          fetch-depth: 0  # for posts's lastmod
-
-      - name: Setup Ruby
-        uses: actions/setup-ruby@v1
-        with:
-          ruby-version: 2.6.x
+          fetch-depth: 0
 
       - name: Bundle Caching
-        uses: actions/cache@v2
+        id: bundle-cache
+        uses: actions/cache@v1
         with:
-          path: ${{ env.GEMS_PATH }}
+          path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - name: Bundle Install
+      - name: Bundle config
         run: |
-          bundle config path ${{ env.GEMS_PATH }}
-          bundle install --jobs 4 --retry 3
+          bundle config path vendor/bundle
 
-      - name: Check baseurl
+      - name: Bundle Install
+        if: steps.bundle-cache.outputs.cache-hit != 'true'
         run: |
-          baseurl="$(grep '^baseurl:' _config.yml | sed "s/.*: *//;s/['\"]//g;s/#.*//")"
-          if [[ -n $baseurl ]]; then
-            echo "SPEC_TEST=_site_no_baseurl" >> $GITHUB_ENV
-          fi
+          bundle install
+
+      - name: Bundle Install locally
+        if: steps.bundle-cache.outputs.cache-hit == 'true'
+        run: |
+          bundle install --local
 
       - name: Build Site
-        env:
-          JEKYLL_ENV: production
         run: |
-          bundle exec jekyll b
-
-          if [[ -n $SPEC_TEST ]]; then
-            # Bypass the defects of htmlproofer
-            bundle exec jekyll b -b "" -d "$SPEC_TEST"
-          fi
+          bash tools/build.sh -b ""
 
       - name: Test Site
         run: |
-          if [[ -n $SPEC_TEST ]]; then
-            bash tools/test.sh -d "$SPEC_TEST"
-          else
-            bash tools/test.sh
-          fi
-          
+          bash tools/test.sh
+
+  deploy:
+    needs: build-n-test
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6.x'
+
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Bundle Caching
+        id: bundle-cache
+        uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - name: Bundle config
+        run: |
+          bundle config path vendor/bundle
+
+      - name: Bundle Install
+        if: steps.bundle-cache.outputs.cache-hit != 'true'
+        run: |
+          bundle install
+
+      - name: Bundle Install locally
+        if: steps.bundle-cache.outputs.cache-hit == 'true'
+        run: |
+          bundle install --local
+
+      - name: Build site
+        run: |
+          bash tools/build.sh
+
       - name: Deploy
         run: |
           bash tools/deploy.sh
