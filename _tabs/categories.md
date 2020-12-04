@@ -13,6 +13,7 @@ order: 1
 
 ##### Members from the two churches have participated in:
 
+>
 > ##### **9** different types of sessions to design the app.
 > ##### **40** total focus groups and interviews.
 
@@ -20,6 +21,7 @@ order: 1
 
 ##### *Thank you so much for all your hard work this past year, and for sharing your experiences and insights with us!* 
 
+![image](https://user-images.githubusercontent.com/75331796/101180473-a1b4e000-3619-11eb-9529-84d28ad54f3f.png)
 
 {% assign HEAD_PREFIX = "h_" %}
 {% assign LIST_PREFIX = "l_" %}
