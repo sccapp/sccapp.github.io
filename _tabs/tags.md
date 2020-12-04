@@ -10,6 +10,15 @@ order: 2
 # MIT License
 ---
 
+**## App Links**
+
+
+**## How to report bugs**
+
+
+**## Questions, Concerns, Comments?**
+If you have any questions or concerns about the project, please contact the Principal Investigator: Timothy Bickmore at 617-373-5477
+
 {% comment %}
   'site.tags' looks like a Map, e.g. site.tags.MyTag.[ Post0, Post1, ... ]
   Print the {{ site.tags }} will help you to understand it.
