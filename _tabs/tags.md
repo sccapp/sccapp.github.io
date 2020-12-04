@@ -46,10 +46,9 @@ Navigate to <http://ragstudy.ccs.neu.edu/scc/bugreport.html>
 ###### **Step 2**
 Fill out the fields below. See images below to find the "Issue Location". 
 
-[<img src="https://user-images.githubusercontent.com/75331796/101184918-40900b00-361f-11eb-95f5-2359cad12a11.png" width="300" height="300">](https://user-images.githubusercontent.com/75331796/101184918-40900b00-361f-11eb-95f5-2359cad12a11.png "Screenshot of Jira"](https://user-images.githubusercontent.com/75331796/101184918-40900b00-361f-11eb-95f5-2359cad12a11.png)<img src="https://user-images.githubusercontent.com/75331796/101185012-5bfb1600-361f-11eb-8ccd-32ac9c19f3fe.png" width="200" height="300"><img src="https://user-images.githubusercontent.com/75331796/101185063-6a493200-361f-11eb-8fc8-f5bc7cb89313.png" width="200" height="300">
+<img src="https://user-images.githubusercontent.com/75331796/101184918-40900b00-361f-11eb-95f5-2359cad12a11.png" width="300" height="300">(https://user-images.githubusercontent.com/75331796/101184918-40900b00-361f-11eb-95f5-2359cad12a11.png)<img src="https://user-images.githubusercontent.com/75331796/101185012-5bfb1600-361f-11eb-8ccd-32ac9c19f3fe.png" width="200" height="300"><img src="https://user-images.githubusercontent.com/75331796/101185063-6a493200-361f-11eb-8fc8-f5bc7cb89313.png" width="200" height="300">
 
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
 
 ## **Questions, Concerns, Comments?**
 
