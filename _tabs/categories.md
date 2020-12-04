@@ -12,6 +12,7 @@ order: 1
 ## Summary of the Work in Year 1 
 
 ##### Members from the two churches have participated in:
+
 > ##### **9** different types of sessions to design the app.
 > ##### **40** total focus groups and interviews.
 
