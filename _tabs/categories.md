@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Progress So Far
 icon: fas fa-stream
 order: 1
 
