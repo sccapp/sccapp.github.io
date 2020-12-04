@@ -13,11 +13,11 @@ order: 1
 
 ##### Members from the two churches have participated in:
 
->
-> ##### **9** different types of sessions to design the app.
-> ##### **40** total focus groups and interviews.
 
-> ##### For a total of **62** hours on the project so far.
+##### **9** different types of sessions to design the app.
+##### **40** total focus groups and interviews.
+
+##### For a total of **62** hours on the project so far.
 
 ##### *Thank you so much for all your hard work this past year, and for sharing your experiences and insights with us!* 
 
