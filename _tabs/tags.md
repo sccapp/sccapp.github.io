@@ -46,7 +46,7 @@ Navigate to <http://ragstudy.ccs.neu.edu/scc/bugreport.html>
 ###### **Step 2**
 Fill out the fields below. See images to the right of how to find the "Issue Location". 
 
-![image](https://user-images.githubusercontent.com/75331796/101184918-40900b00-361f-11eb-95f5-2359cad12a11.png)![image](https://user-images.githubusercontent.com/75331796/101185012-5bfb1600-361f-11eb-8ccd-32ac9c19f3fe.png)![image](https://user-images.githubusercontent.com/75331796/101185063-6a493200-361f-11eb-8fc8-f5bc7cb89313.png)
+<img src="https://user-images.githubusercontent.com/75331796/101184918-40900b00-361f-11eb-95f5-2359cad12a11.png" width="100" height="100"><img src="https://user-images.githubusercontent.com/75331796/101185012-5bfb1600-361f-11eb-8ccd-32ac9c19f3fe.png" width="100" height="100"><img src="https://user-images.githubusercontent.com/75331796/101185063-6a493200-361f-11eb-8fc8-f5bc7cb89313.png" width="100" height="100">
 
 
 
