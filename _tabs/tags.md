@@ -10,8 +10,30 @@ order: 2
 # MIT License
 ---
 
-## **App Links**
+## **Getting Started**
 
+#### **Getting access to the app**
+
+Contact Dhaval Parmar either via Slack or email <dhavalparmar@northeastern.edu> to get access. You will need to provide your Google ID (for Android) 
+or Apple ID (for iOS) to be added as a tester.
+
+*Please let Dhaval know which phone make/model you are using to test the app or add yourself to this document [here](https://docs.google.com/spreadsheets/d/1hu2XE6cPSM1YHxyi2hRoknW_9eZPqcXMEk7_ImjYQZs/edit#gid=0).**
+
+#### **Downloading the test app**
+
+###### **Android**
+Once you have been added as a testor, you may go to the following link to download and install the app: <https://play.google.com/apps/internaltest/4700153961691507100> 
+
+###### **iPhone**
+Once you have been added as a testor, you will receive an invitation to download and install the app via email, with the subject 
+"Evelyne Kimani has invited you to test the SCC Church Connect app".
+Apps that are in the testing stage are installed through another app called TestFlight. The invitation email will have an
+access code which you will need to enter into TestFlight.
+
+#### **Log-in information for the app**
+
+Username: Your first name
+Password: 12345
 
 ## **How to report bugs**
 
