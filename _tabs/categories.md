@@ -47,10 +47,10 @@ We learned from church members that it is important that the application:
 - **Recruiting more Churches.**
 
 ## **Interested in Getting Involved?**
-Contact Teresa O’Leary at <oleary.t@northeastern.edu>
+Contact us.
 
 ## **Questions, Concerns, Comments?**
-Contact the Principal Investigator: Timothy Bickmore at 617-373-5477
+Contact us.
 
 
 
