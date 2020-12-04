@@ -47,7 +47,7 @@ jobs:
 
       - name: Build Site
         run: |
-          bash tools/build.sh -b ""
+          bash tools/build.sh -b ""--trace
 
       - name: Test Site
         run: |
