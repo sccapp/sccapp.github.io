@@ -47,10 +47,10 @@ We learned from church members that it is important that the application:
 - **Recruiting more Churches.**
 
 ## **Interested in Getting Involved?**
-Contact us.
+Please see our contact page.
 
 ## **Questions, Concerns, Comments?**
-Contact us.
+Please see our contact page.
 
 
 
