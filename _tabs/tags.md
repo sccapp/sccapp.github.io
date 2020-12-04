@@ -17,7 +17,7 @@ order: 2
 Contact Dhaval Parmar either via Slack or email <dhavalparmar@northeastern.edu> to get access. You will need to provide your Google ID (for Android) 
 or Apple ID (for iOS) to be added as a tester.
 
-*Please let Dhaval know which phone make/model you are using to test the app or add yourself to this document [here](https://docs.google.com/spreadsheets/d/1hu2XE6cPSM1YHxyi2hRoknW_9eZPqcXMEk7_ImjYQZs/edit#gid=0).**
+*Please let Dhaval know which phone make/model you are using to test the app or add yourself to this document [here](https://docs.google.com/spreadsheets/d/1hu2XE6cPSM1YHxyi2hRoknW_9eZPqcXMEk7_ImjYQZs/edit#gid=0).*
 
 #### **Downloading the test app**
 
@@ -32,7 +32,7 @@ access code which you will need to enter into TestFlight.
 
 #### **Log-in information for the app**
 
-Username: Your first name
+Username: Your first name 
 Password: 12345
 
 ## **How to report bugs**
@@ -40,11 +40,11 @@ Password: 12345
 We use Jira to report issues.
 
 ###### **Step 0** 
-Screenshot the bug (if applicable). You will be able to upload this image to Jira with your bug report.
+Screenshot the bug (if applicable). You will be able to upload this image to Jira with your bug report. 
 ###### **Step 1**
-Navigate to <http://ragstudy.ccs.neu.edu/scc/bugreport.html>
+Navigate to <http://ragstudy.ccs.neu.edu/scc/bugreport.html> 
 ###### **Step 2**
-Fill out the fields below. See images to the right of how to find the "Issue Location".
+Fill out the fields below. See images to the right of how to find the "Issue Location". 
 
 ![image](https://user-images.githubusercontent.com/75331796/101184918-40900b00-361f-11eb-95f5-2359cad12a11.png)![image](https://user-images.githubusercontent.com/75331796/101185012-5bfb1600-361f-11eb-8ccd-32ac9c19f3fe.png)![image](https://user-images.githubusercontent.com/75331796/101185063-6a493200-361f-11eb-8fc8-f5bc7cb89313.png)
 
