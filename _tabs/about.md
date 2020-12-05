@@ -21,9 +21,9 @@ laity of the Black Ministerial Alliance (BMA) in Boston. Our next steps include 
 series of app prototypes to be tested by members of your church community.
 
 The prototypes will support spiritual practice through:
-- Prayer Wall
-- Pastor Messages
-- Scriptural Meditations
+- **Prayer Wall**
+- **Pastor Messages**
+- **Scriptural Meditations**
 
 The prototypes will focus on the following health topics:
 - Physical Activity - including encouragement for walking.
