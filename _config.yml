@@ -102,7 +102,10 @@ kramdown:
 # or you think you're smart enough to change other relevant URLs within this template.
 permalink: /posts/:title/
 
-
+collections:
+  tabs:
+    output: true
+    sort_by: order
 
 
 defaults:
@@ -150,7 +153,7 @@ defaults:
           label: Home
           url: /
         -
-          label: categories
+          label: Categories
           url: /tabs/categories/
   -
     scope:
