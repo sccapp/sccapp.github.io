@@ -22,7 +22,7 @@ or Apple ID (for iOS) to be added as a tester.
 #### **Downloading the test app**
 
 ###### **Android**
-Once you have been added as a testor, you may go to the following link to download and install the app: <https://play.google.com/apps/internaltest/4700153961691507100> 
+Once you have been added as a tester, you may go to the following link to download and install the app: <https://play.google.com/apps/internaltest/4700153961691507100> 
 
 ###### **iPhone**
 Once you have been added as a testor, you will receive an invitation to download and install the app via email, with the subject 
