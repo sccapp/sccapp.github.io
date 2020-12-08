@@ -17,8 +17,7 @@ order: 2
 Contact Dhaval Parmar via Slack or email to get access. You will need to provide your Google ID (for Android) 
 or Apple ID (for iOS) to be added as a tester.
 
-*Please let Dhaval know which phone make/model you are using to test the app or add yourself to this document [here](https://docs.google.com/spreadsheets/d/1hu2XE6cPSM1YHxyi2hRoknW_9eZPqcXMEk7_ImjYQZs/edit#gid=0).*
-
+*Please let Dhaval know which phone make/model you are using to test the app.*
 #### **Downloading the test app**
 
 ###### **Android**
