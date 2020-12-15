@@ -130,9 +130,6 @@ defaults:
     scope:
       path: index.html
     values:
-      breadcrumb:
-        -
-          label: Posts
   -
     scope:
       path: tags
@@ -164,7 +161,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Home
+          label: Posts
           url: /
 
 sass:
