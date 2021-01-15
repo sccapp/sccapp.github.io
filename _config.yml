@@ -100,7 +100,7 @@ kramdown:
 
 # DO NOT change this unless you're a Pro user on Jekyll and Web development,
 # or you think you're smart enough to change other relevant URLs within this template.
-permalink: /home/:title/
+permalink: /About/:title/
 
 collections:
   tabs:
@@ -119,7 +119,7 @@ defaults:
       toc: true         # Display TOC column in posts.
       breadcrumb:
         -
-          label: Home
+          label: About
           url: /
   -
     scope:
@@ -161,7 +161,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Home
+          label: About
           url: /
 
 sass:
