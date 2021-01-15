@@ -5,7 +5,7 @@ order: 4
 layout: home
 breadcrumb:
   -
-   label: Posts
+   label: About
    url: /
 # The Updates page
 # v2.0
