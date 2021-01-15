@@ -153,13 +153,6 @@ defaults:
           label: Categories
           url: /tabs/categories/
   -
-   scope:
-      path: updates
-    values:
-      breadcrumb:
-        -
-          label: Posts
-  -
     scope:
       path: ''
       type: tabs             # see `site.collections`
@@ -168,7 +161,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Home
+          label: Posts
           url: /
 
 sass:
