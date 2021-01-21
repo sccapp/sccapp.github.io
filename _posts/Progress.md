@@ -1,0 +1,54 @@
+---
+title       : Progress So Far                  # Title
+author      : The Team             # Author Name
+date        : 2020-09-01 11:00:00 -0400  # Date
+categories  : []                         # Catagories, no more than 2
+tags        : []                         # Tags, any number
+pin         : true                       # Should this post be pinned?
+toc         : true                       # Table of Contents?
+math        : false                      # Does this post contain math?
+# image       : ![image](https://user-images.githubusercontent.com/75331796/101182652-5c45e200-361c-11eb-8f64-63062ee648b6.png)            # Header image path
+---
+
+## Summary of the Work in Year 1 
+
+##### **Project Goal:**
+The goal of the project is to expand church-based health promotion activities. We partnered with the Black Ministerial Alliance (BMA) 
+in Boston and church members to co-design a smartphone application. By working with church members, we hope to create an application that 
+reflects the priorities and values of their church community. 
+
+##### Members from the two churches have participated in:
+
+
+##### **9** different types of sessions to design the app.
+##### **40** total focus groups and interviews.
+
+##### For a total of **62** hours on the project so far.
+
+##### *Thank you so much for all your hard work this past year, and for sharing your experiences and insights with us!* 
+
+![image](https://user-images.githubusercontent.com/75331796/101180473-a1b4e000-3619-11eb-9529-84d28ad54f3f.png)
+
+## **Takeaways:**
+
+With the help of church members, we identified four health topics: 
+
+**Physical Activity, Nutrition, Stress and Mental Health, and Healthy Relationships.** 
+
+We learned from church members that it is important that the application: 
+
+- Promote in-person interactions and increase communication between church members.
+- Support the user’s faith practices. 
+- Reflect the diversity of the church communities. 
+
+## **Next Steps:**
+
+- **Building app prototypes.** We plan to build a series of app prototypes to be tested by members of your church community. 
+- **Collaborating with Church Leaders.** 
+- **Recruiting more Churches.**
+
+## **Interested in Getting Involved?**
+Please see our contact page.
+
+## **Questions, Concerns, Comments?**
+Please see our contact page.
