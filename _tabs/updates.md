@@ -1,5 +1,4 @@
 ---
-title: Updates
 icon: fas fa-info
 order: 4
 layout: home
