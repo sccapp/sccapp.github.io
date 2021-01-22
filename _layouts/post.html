@@ -30,20 +30,19 @@ layout: default
           </span>
         </div>
 
+        <div>
         <!-- lastmod -->
         {% if page.last_modified_at %}
-        <div>
+        <span>
           Updated
           {% include timeago.html date=page.last_modified_at class="lastmod" tooltip=true %}
-        </div>
+        </span>
         {% endif %}
 
         <!-- page views -->
         {% if site.google_analytics.pv.enabled %}
-        <div>
           <span id="pv" class="pageviews"><i class="fas fa-spinner fa-spin fa-fw"></i></span>
           views
-        </div>
         {% endif %}
 
       </div> <!-- .post-meta -->
