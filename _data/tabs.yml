@@ -6,11 +6,11 @@
 
 -
   name: Home
--
-  name: "Progress So Far"
-  icon: "fas fa-info"
-  path: tabs
-  url: about
+#-
+  #name: "Progress So Far"
+ # icon: "fas fa-info"
+ # path: tabs
+ # url: about
 -
   name: "Current App Testers"
   icon: "fas fa-flask"
