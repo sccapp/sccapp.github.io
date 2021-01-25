@@ -1,5 +1,5 @@
 ---
-title: Progress So Far
+title: 
 icon: fas fa-stream
 order: 1
 
